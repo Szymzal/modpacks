@@ -7928,11 +7928,6 @@ hash = "a58ee6dda33555b128769bd0ed7741e6a7c99445459718ad73352718141fcde9"
 metafile = true
 
 [[files]]
-file = "mods/betterp2p.pw.toml"
-hash = "bc3d6f16dec88f6d9e03ee7b1d74ea97230f7ed132f74e7afbcc0442398eb018"
-metafile = true
-
-[[files]]
 file = "mods/blur.pw.toml"
 hash = "29309912a644f1bf1ad434ae7b51bb111a33c5d119a7fb8f73309154ae93b6ee"
 metafile = true
