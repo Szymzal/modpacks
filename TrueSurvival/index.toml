@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "TFG-NewHorizons-4.3.4-cf.zip:Zone.Identifier"
-hash = "a885936bd2dec22f7c775c56269187adfa73240213a17725aecdb70385da7e0b"
-
-[[files]]
 file = "bansoukou/TerraFirmaCraft-MC1.12.2-1.7.23.181/net/dries007/tfc/api/capability/size/Weight.class"
 hash = "24459bfd8cff0f6947f22f77c5170436e026dc416a29e18ddd2bb87eef4ec8a8"
 
@@ -7026,7 +7022,7 @@ hash = "f17f10215edfb5e4c940edcdca7352661a4764fcf8ba67d32e97ecc340847ff2"
 
 [[files]]
 file = "config/replaymod.cfg"
-hash = "cc21b7fb8c44ffb07e30b4c6e1630af5fb4f734e262ca702c12ecb87ab0233de"
+hash = "c426c95820f9d498cf3aa4d3d8e2c680176f4248c7ad551d9a49fd1989c6528e"
 
 [[files]]
 file = "config/saltwaterpatcher.cfg"
@@ -7843,58 +7839,6 @@ hash = "7ef770ad29a3bb4d83ee4a6bd04ad9babe05e48d96aee2fccb5df4a9fed0e227"
 [[files]]
 file = "groovy/postInit/OreDictionary/OreDict-Vanilla.groovy"
 hash = "a368f93cd65c40fda3857a18aea203f064c8bc9852f66d7f5a3e830315a393db"
-
-[[files]]
-file = "groovy/postInit/Utility/Array/arrayAE2.groovy"
-hash = "fc217b8692078b43f29ba3c70099006fb1b6bbc033b69303bf646911c342fc30"
-
-[[files]]
-file = "groovy/postInit/Utility/Array/arrayGC.groovy"
-hash = "9957edb4bd0431c55acf969b34deae858ea9c2ed1f571762aa8737ac35f474ab"
-
-[[files]]
-file = "groovy/postInit/Utility/Array/arrayGT.groovy"
-hash = "c44b4511f98a78626aadb3865cfb2c1aae5f025ba6723a8773ddb88bb3d7f3b8"
-
-[[files]]
-file = "groovy/postInit/Utility/Array/arrayHGP.groovy"
-hash = "88df340df6ad6c1964cfe8d8da8043599ac7eb2ff76d940074e33657f3760e82"
-
-[[files]]
-file = "groovy/postInit/Utility/Array/arrayProjectRed.groovy"
-hash = "48f315815ef6ea8702db0216d94f935cd73e23d562f9246f63b518877e969c01"
-
-[[files]]
-file = "groovy/postInit/Utility/Array/arrayTFC.groovy"
-hash = "19e55a0efac0796534ca7dbd7b04ebf6ecbcd484261e7101fd48ccdadbdb73a4"
-
-[[files]]
-file = "groovy/postInit/Utility/Array/arrayTFCF.groovy"
-hash = "1e6f075d06033caf7afa86d449304d2cc9f5b63adffbbfd8071f038539683662"
-
-[[files]]
-file = "groovy/postInit/Utility/Array/arrayTFCFL.groovy"
-hash = "3c156b30fe9daed75b8622403c95d4ce0922354a009fbd3cfc3ba01f9fbf5bff"
-
-[[files]]
-file = "groovy/postInit/Utility/Array/arrayTFCM.groovy"
-hash = "88d78103d752c519135c9b45b4858098ac26f4e7b487153ac03240d1b2ba2680"
-
-[[files]]
-file = "groovy/postInit/Utility/Array/arrayVanila.groovy"
-hash = "d48470c40c09d36486b9f52b65d84cc16bba84810a0dd97a082574eee7ad3985"
-
-[[files]]
-file = "groovy/postInit/Utility/CustomMaterials.groovy"
-hash = "fc3b7ae148ef7f3c53adbfa758123173d8de9d22fa97a6dd8b3bdec933d99044"
-
-[[files]]
-file = "groovy/postInit/Utility/FixTFCCapabilityRecipeBug.groovy"
-hash = "baddefe4072044afccdd9f65941184799c43d06fd057f765d3b26ef34e982e51"
-
-[[files]]
-file = "groovy/postInit/Utility/Function.groovy"
-hash = "e021a46f482153ba238fb3968e36fc5928b10e6b5e486953dd7d5da424502767"
 
 [[files]]
 file = "groovy/postInit/Utility/Globals.groovy"
@@ -11751,10 +11695,6 @@ hash = "1a6262a856ff3ba65a3946ba40addeba8a0afc959a2f0222f7b5ee154363f45e"
 [[files]]
 file = "scripts/Utility/LootTweaker.zs"
 hash = "6283a71bcbd630a0ac37c08cacecd3a98a523b665ef727493d0b5c1cd406cc1f"
-
-[[files]]
-file = "scripts/Utility/StoneTypes.zs"
-hash = "ae040983196244a4293a0e24f94bd9fcc4ba716255b0f6dd1b500d11690ce694"
 
 [[files]]
 file = "shaderpacks/BSL TFG.rar"
