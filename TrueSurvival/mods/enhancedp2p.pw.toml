@@ -1,0 +1,13 @@
+name = "EnhancedP2P"
+filename = "betterp2p_plusplus-1.12.2-1.2.3-extended_life.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c72e559f7c91995fd16b1b678cbee9ed1566fc4e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4592511
+project-id = 876339

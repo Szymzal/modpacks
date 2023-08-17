@@ -1,8 +1,8 @@
-import postInit.Utility.Array.arrayTFC
-import postInit.Utility.Function
+import classes.Array.arrayTFC
+import classes.Function
 
 
-if (isLoaded("gregtechfoodoption")) {
+if (isLoaded("gregtechfoodoption1")) {
 
 	// --- Добавление рецептов
 	
@@ -18,7 +18,7 @@ if (isLoaded("gregtechfoodoption")) {
 		[ore('mudBrick'), metaitem('plateBronze'), ore('mudBrick')],
 		[null, item('gregtechfoodoption:gtfo_casing'), null]])
 	
-	assembler.recipeBuilder()
+	mods.gregtech.assembler.recipeBuilder()
 		.circuitMeta(1)
 		.inputs(
 			item('gregtechfoodoption:gtfo_casing:0'), 
@@ -27,7 +27,7 @@ if (isLoaded("gregtechfoodoption")) {
 		.outputs(item('gregtechfoodoption:gtfo_casing:1'))
 		.duration(20).EUt(28).buildAndRegister()
 	
-	assembler.recipeBuilder()
+	mods.gregtech.assembler.recipeBuilder()
 		.circuitMeta(3)
 		.inputs(
 			item('gregtechfoodoption:gtfo_casing:0') * 3, 

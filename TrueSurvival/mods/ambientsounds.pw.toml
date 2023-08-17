@@ -1,6 +1,6 @@
 name = "AmbientSounds 5"
 filename = "AmbientSounds_v3.1.7_mc1.12.2.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

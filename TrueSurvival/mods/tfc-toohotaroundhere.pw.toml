@@ -1,13 +1,13 @@
 name = "TFC TooHotAroundHere"
-filename = "thah-1.1.1.jar"
+filename = "thah-1.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0cc91c174963affc8e0d25adcb06215bbc742cf1"
+hash = "bb569fc6831965770926083384adf1ad29e0a462"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3934794
+file-id = 4671603
 project-id = 641267

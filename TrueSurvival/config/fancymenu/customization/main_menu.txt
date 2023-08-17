@@ -308,7 +308,7 @@ customization {
 customization {
   orientation = top-left
   restartbackgroundanimations = true
-  buttonaction = openlink;https://discord.gg/y4khKF9zjT%btnaction_splitter_fm%
+  buttonaction = openlink;https://discord.gg/terrafirmagreg%btnaction_splitter_fm%
   backgroundhovered = resources\modpack\icons\discord_h.png
   description = %local:tfg.menu.discord%
   label = 
@@ -342,7 +342,7 @@ customization {
 customization {
   orientation = top-left
   restartbackgroundanimations = true
-  buttonaction = openlink;https://github.com/TerraFirmaGreg-New-Horizons/TFG-Modpack-1.12.x/issues%btnaction_splitter_fm%
+  buttonaction = openlink;https://github.com/TerraFirmaGreg-Team/TFG-Modpack-1.12.x/issues%btnaction_splitter_fm%
   backgroundhovered = resources\modpack\icons\github_h.png
   description = %local:tfg.menu.github%
   label = 
@@ -368,26 +368,6 @@ customization {
   action = addbutton
   actionid = ab98b1c6-36eb-4d2e-a4df-e6f8320449351682691033654
   y = 141
-  backgroundnormal = resources\modpack\longbutton.png
-  height = 21
-}
-
-customization {
-  orientation = element
-  restartbackgroundanimations = true
-  buttonaction = downloadfile;http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar;mods/OptiFine_1.12.2_HD_U_G5.jar%btnaction_splitter_fm%
-  backgroundhovered = resources\modpack\longbutton_h.png
-  description = %local:tfg.menu.optifine.hover%
-  label = %local:tfg.menu.optifine.download%
-  [loading_requirement:fancymenu_loading_requirement_is_window_width_bigger_than][requirement_mode:if][req_id:7290aae8-089b-42ed-9db3-b620d45215d71682701137735] = 900
-  loopbackgroundanimations = true
-  orientation_element = 2f2a0982-3a26-4e6a-95ab-377a8b07c4c11626554305606
-  x = 10
-  width = 180
-  action = addbutton
-  actionid = 39e6387b-6e47-49aa-a320-d73fab9a0d131682691033654
-  y = 201
-  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if_not][req_id:13d36547-1e17-4449-8bc8-7196e10b5d751682698445295] = optifine
   backgroundnormal = resources\modpack\longbutton.png
   height = 21
 }

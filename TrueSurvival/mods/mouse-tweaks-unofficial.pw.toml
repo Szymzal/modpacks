@@ -1,13 +1,13 @@
 name = "Mouse Tweaks Unofficial"
-filename = "MouseTweaks-3.1.2-mc1.12.2.jar"
-side = "client"
+filename = "mousetweaks-1.12.2-3.1.4.jar"
+side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8da65ff042f64a4ee551cafe57ceec24a352f81e"
+hash = "b4a06ef4ea32e7cc50d4e67fd6f3255dc6aa1ec6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3962479
+file-id = 4661407
 project-id = 461660

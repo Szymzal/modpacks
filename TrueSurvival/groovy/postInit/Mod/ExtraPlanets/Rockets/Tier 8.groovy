@@ -27,17 +27,17 @@ if (isLoaded("extraplanets")) {
 	// Ракета
 	assembly_line.recipeBuilder()
 		.inputs(item('extraplanets:nose_cone_tier8'))
-		.inputs(metaitem('rocket.body.tier.8') * 12)
+		.inputs(item('tfgmod:meta_item', 20) * 12)
 		.inputs(item('extraplanets:tier8_items:2') * 8)
 		.inputs(item('extraplanets:tier8_items:1') * 6)
 		.inputs(item('extraplanets:tier8_items') * 5)
 		.inputs(item('galacticraftcore:oil_canister_partial:1001') * 64)
-		.inputs(metaitem('lander.tier.3'))
+		.inputs(item('tfgmod:meta_item', 49))
 		.inputs(metaitem('electric.motor.uev') * 4)
 		.inputs(metaitem('emitter.uev') * 4)
 		.inputs(ore('circuitUhv') * 8)
 		.inputs(crate[i] * 18)
-		.inputs(metaitem('rocket.control.computer.tier.8'))
+		.inputs(item('tfgmod:meta_item', 42))
 		.inputs(item('extraplanets:schematic_tier8'))
 		.fluidInputs(fluid('naquadria') * 9216)
 		.fluidInputs(fluid('soldering_alloy') * 4608)
@@ -46,7 +46,7 @@ if (isLoaded("extraplanets")) {
 		.duration(1200).EUt(4194304).buildAndRegister()
 	}
 	// Ракетный компьютер
-	assembler.recipeBuilder()
+	mods.gregtech.assembler.recipeBuilder()
 		.circuitMeta(8)
 		.inputs(
 			item('opencomputers:case3'),
@@ -56,11 +56,11 @@ if (isLoaded("extraplanets")) {
 			metaitem('sensor.uev'),
 			item('extraplanets:tier8_items:3'))
 		.fluidInputs(fluid('soldering_alloy') * 6912)
-		.outputs(metaitem('rocket.control.computer.tier.8'))
+		.outputs(item('tfgmod:meta_item', 42))
 		.cleanroom(CleanroomType.CLEANROOM)
 		.duration(600).EUt(4194304).buildAndRegister()
 	// Головоной обтекатель
-	assembler.recipeBuilder()
+	mods.gregtech.assembler.recipeBuilder()
 		.circuitMeta(8)
 		.inputs(
 			item('extraplanets:nose_cone_tier4'),
@@ -72,18 +72,18 @@ if (isLoaded("extraplanets")) {
 		.cleanroom(CleanroomType.CLEANROOM)
 		.duration(600).EUt(4194304).buildAndRegister()
 	// Корпус
-	assembler.recipeBuilder()
+	mods.gregtech.assembler.recipeBuilder()
 		.circuitMeta(8)
 		.inputs(
 			item('extraplanets:tier8_items:3') * 2,
 			metaitem('voltage_coil.uv') * 2,
 			metaitem('field.generator.uev'))
 		.fluidInputs(fluid('soldering_alloy') * 288)
-		.outputs(metaitem('rocket.body.tier.8'))
+		.outputs(item('tfgmod:meta_item', 20))
 		.cleanroom(CleanroomType.CLEANROOM)
 		.duration(300).EUt(4194304).buildAndRegister()
 	// Стабилизаторы
-	assembler.recipeBuilder()
+	mods.gregtech.assembler.recipeBuilder()
 		.circuitMeta(8)
 		.inputs(
 			item('extraplanets:tier8_items:3') * 2,
@@ -94,7 +94,7 @@ if (isLoaded("extraplanets")) {
 		.cleanroom(CleanroomType.CLEANROOM)
 		.duration(300).EUt(4194304).buildAndRegister()
 	// Ракетные двигатели
-	assembler.recipeBuilder()
+	mods.gregtech.assembler.recipeBuilder()
 		.circuitMeta(8)
 		.inputs(
 			item('extraplanets:tier8_items:3') * 5,
@@ -106,7 +106,7 @@ if (isLoaded("extraplanets")) {
 		.outputs(item('extraplanets:tier8_items'))
 		.duration(300).EUt(4194304).buildAndRegister()
 	// Ускорители
-	assembler.recipeBuilder()
+	mods.gregtech.assembler.recipeBuilder()
 		.circuitMeta(8)
 		.inputs(
 			item('galacticraftcore:engine:1'),
@@ -124,11 +124,11 @@ if (isLoaded("extraplanets")) {
 			metaitem('plateDenseNaquadria') * 4,
 			metaitem('boltTritanium') * 8)
 		.fluidInputs(fluid('soldering_alloy') * 144)
-		.outputs(metaitem('alloy.ingot.tier.8'))
+		.outputs(item('tfgmod:meta_item', 31))
 		.duration(300).EUt(4194304).buildAndRegister()
 	// Сверх-прочные пластины
 	implosion_compressor.recipeBuilder()
-		.inputs(metaitem('alloy.ingot.tier.8'))
+		.inputs(item('tfgmod:meta_item', 31))
 		.outputs(
 			item('extraplanets:tier8_items:3'),
 			metaitem('dustTinyTritanium') * 6)
@@ -136,7 +136,7 @@ if (isLoaded("extraplanets")) {
 		.duration(20).EUt(30).buildAndRegister()
 	// Схема ракеты
 	laser_engraver.recipeBuilder()
-		.inputs(metaitem('schematic.blank'))
+		.inputs(item('tfgmod:meta_item', 46))
 		.notConsumable(metaitem('glass_lens.gray'))
 		.outputs(item('extraplanets:schematic_tier8'))
 		.cleanroom(CleanroomType.CLEANROOM)

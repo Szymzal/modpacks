@@ -26,16 +26,16 @@ if (isLoaded("galacticraftcore")) {
 	// Ракета
 	assembly_line.recipeBuilder()
 		.inputs(item('galacticraftcore:nose_cone'))
-		.inputs(metaitem('rocket.body.tier.2') * 10)
+		.inputs(item('tfgmod:meta_item', 14) * 10)
 		.inputs(item('galacticraftcore:rocket_fins') * 4)
 		.inputs(item('galacticraftcore:engine') * 2)
 		.inputs(item('galacticraftcore:engine:1') * 2)
 		.inputs(item('galacticraftcore:oil_canister_partial:1001') * 4)
-		.inputs(metaitem('lander.tier.2'))
+		.inputs(item('tfgmod:meta_item', 48))
 		.inputs(metaitem('electric.motor.ev') * 4)
 		.inputs(metaitem('emitter.ev') * 4)
 		.inputs(ore('circuitEv') * 8)
-		.inputs(metaitem('rocket.control.computer.tier.2'))
+		.inputs(item('tfgmod:meta_item', 36))
 		.inputs(item('galacticraftcore:schematic:1'))
 		.inputs(crate[i] * 6)
 		.fluidInputs(fluid('moon_liquid_air') * 9216)
@@ -45,7 +45,7 @@ if (isLoaded("galacticraftcore")) {
 		.duration(1200).EUt(1024).buildAndRegister()
 	}
 	// Ракетный компьютер
-	assembler.recipeBuilder()
+	mods.gregtech.assembler.recipeBuilder()
 		.circuitMeta(2)
 		.inputs(
 			item('opencomputers:case1'),
@@ -55,22 +55,22 @@ if (isLoaded("galacticraftcore")) {
 			metaitem('sensor.ev'),
 			item('galacticraftplanets:item_basic_mars:3'))
 		.fluidInputs(fluid('soldering_alloy') * 864)
-		.outputs(metaitem('rocket.control.computer.tier.2'))
+		.outputs(item('tfgmod:meta_item', 36))
 		.cleanroom(CleanroomType.CLEANROOM)
 		.duration(600).EUt(1024).buildAndRegister()
 	// Корпус
-	assembler.recipeBuilder()
+	mods.gregtech.assembler.recipeBuilder()
 		.circuitMeta(2)
 		.inputs(
 			item('galacticraftplanets:item_basic_mars:3') * 2,
 			metaitem('voltage_coil.ev') * 2,
 			metaitem('field.generator.ev') * 2)
 		.fluidInputs(fluid('soldering_alloy') * 288)
-		.outputs(metaitem('rocket.body.tier.2'))
+		.outputs(item('tfgmod:meta_item', 14))
 		.cleanroom(CleanroomType.CLEANROOM)
 		.duration(300).EUt(1024).buildAndRegister()
 	// Ускорители
-	assembler.recipeBuilder()// метеоритоное железо
+	mods.gregtech.assembler.recipeBuilder()// метеоритоное железо
 		.circuitMeta(2)
 		.inputs(
 			item('galacticraftplanets:item_basic_mars:3') * 2,
@@ -85,17 +85,17 @@ if (isLoaded("galacticraftcore")) {
 		.cleanroom(CleanroomType.CLEANROOM)
 		.duration(600).EUt(1024).buildAndRegister()
 	// Сплав сверх-прочных пластин
-	assembler.recipeBuilder()
+	mods.gregtech.assembler.recipeBuilder()
 		.circuitMeta(2)
 		.inputs(
 			item('galacticraftcore:heavy_plating'),
 			metaitem('plateDenseMeteoricIron') * 2)
 		.fluidInputs(fluid('tungsten_steel') * 72)
-		.outputs(metaitem('alloy.ingot.tier.2'))
+		.outputs(item('tfgmod:meta_item', 25))
 		.duration(300).EUt(1024).buildAndRegister()
 	// Сверх-прочные пластины
 	implosion_compressor.recipeBuilder()
-		.inputs(metaitem('alloy.ingot.tier.2'))
+		.inputs(item('tfgmod:meta_item', 25))
 		.outputs(
 	      item('galacticraftplanets:item_basic_mars:3'),
 	      metaitem('dustTinyTungstenSteel') * 2)
@@ -103,7 +103,7 @@ if (isLoaded("galacticraftcore")) {
 		.duration(20).EUt(30).buildAndRegister()
 	// Схема ракеты
 	laser_engraver.recipeBuilder()
-		.inputs(metaitem('schematic.blank'))
+		.inputs(item('tfgmod:meta_item', 46))
 		.notConsumable(metaitem('glass_lens.orange'))
 		.outputs(item('galacticraftcore:schematic:1'))
 		.cleanroom(CleanroomType.CLEANROOM)

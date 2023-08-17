@@ -1,6 +1,6 @@
 name = "Blur"
 filename = "Blur-1.0.4-14.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

@@ -1,12 +1,12 @@
 name = "TrueSurvival-S1"
 author = "TerraFirmaGreg-Team, Szymzal"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "758cc9698d9bf5b3276e96fdf17bd85c8aad83f8768adaf4984ea73cfe35a61e"
+hash = "c36df19bf3be791a49e0658ddb133137ca6bd0f7441d37d65bf76e5e1868f7ab"
 
 [versions]
 forge = "14.23.5.2860"

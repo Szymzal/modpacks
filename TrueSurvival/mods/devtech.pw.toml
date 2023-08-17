@@ -1,13 +1,13 @@
 name = "Devtech"
-filename = "devtech-2.1.2.jar"
+filename = "devtech-2.1.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "409f838f5c9b24c10eec181fa189ca660de0e112"
+hash = "23377c9f5a08c3485bf796e71df29fe4390e7ae1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3787768
+file-id = 4682339
 project-id = 412037
