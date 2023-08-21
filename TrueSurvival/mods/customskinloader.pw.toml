@@ -1,6 +1,6 @@
 name = "CustomSkinLoader"
 filename = "CustomSkinLoader_ForgeLegacy-14.15.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

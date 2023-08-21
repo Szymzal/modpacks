@@ -1,6 +1,6 @@
 name = "Simple Login"
 filename = "simplelogin-1.2.4-beta+build127.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
