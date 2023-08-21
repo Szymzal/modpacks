@@ -1,6 +1,6 @@
 name = "Smooth Font"
 filename = "SmoothFont-mc1.12.2-2.1.4.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

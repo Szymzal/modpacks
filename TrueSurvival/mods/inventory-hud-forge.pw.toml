@@ -1,6 +1,6 @@
 name = "Inventory HUD+"
 filename = "InventoryHUD-1.12.2.forge-3.4.4.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

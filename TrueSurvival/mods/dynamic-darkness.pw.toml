@@ -1,6 +1,6 @@
 name = "Dynamic Darkness"
 filename = "darkness-forge-1.12.x-0.5.0.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

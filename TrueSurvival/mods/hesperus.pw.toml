@@ -1,6 +1,6 @@
 name = "燐/Hesperus"
 filename = "phosphor-1.12.2-0.2.9.2-SNAPSHOT-universal.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

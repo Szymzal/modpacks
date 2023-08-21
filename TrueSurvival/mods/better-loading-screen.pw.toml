@@ -1,6 +1,6 @@
 name = "Custom Loading Screen"
 filename = "CustomLoadingScreen-1.12.2-1.5.7.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

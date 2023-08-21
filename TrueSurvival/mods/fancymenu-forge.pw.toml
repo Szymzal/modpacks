@@ -1,6 +1,6 @@
 name = "FancyMenu [Forge]"
 filename = "fancymenu_forge_2.14.9_MC_1.12-1.12.2.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

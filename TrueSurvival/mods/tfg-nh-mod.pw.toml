@@ -1,13 +1,13 @@
 name = "[TerraFirmaGreg] Core Mod"
-filename = "tfgmod-2.0.17.jar"
+filename = "tfgmod-2.0.18.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bcd4cad93278d473e0d722fc99e7bb5b606482e0"
+hash = "90344d8f53323cba9fe1fb4caf820934744beaab"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4706065
+file-id = 4710335
 project-id = 513402
