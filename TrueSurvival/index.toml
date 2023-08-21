@@ -7021,6 +7021,10 @@ file = "config/renderlib.cfg"
 hash = "f17f10215edfb5e4c940edcdca7352661a4764fcf8ba67d32e97ecc340847ff2"
 
 [[files]]
+file = "config/replaymod.cfg"
+hash = "c426c95820f9d498cf3aa4d3d8e2c680176f4248c7ad551d9a49fd1989c6528e"
+
+[[files]]
 file = "config/saltwaterpatcher.cfg"
 hash = "9338169f01d9de3dcf19821e83709710315fce67f60e9b0ebec3de8a18556f4c"
 
@@ -7919,6 +7923,11 @@ hash = "d54d454b2ad85aa2ea3cfbf9ca0383952efd826cd0ab842f4fb73aa2a5db074f"
 metafile = true
 
 [[files]]
+file = "mods/better-sprinting.pw.toml"
+hash = "a58ee6dda33555b128769bd0ed7741e6a7c99445459718ad73352718141fcde9"
+metafile = true
+
+[[files]]
 file = "mods/blur.pw.toml"
 hash = "b574d81bfb57d2d9013b7fc02cd0b5728a4cde7205430742003096ff261007cd"
 metafile = true
@@ -8436,6 +8445,11 @@ metafile = true
 [[files]]
 file = "mods/reid.pw.toml"
 hash = "061a33ed9a652a6b57bdd1c0a20f06a1578caa29628ee4c25e81d25defa4f199"
+metafile = true
+
+[[files]]
+file = "mods/replaymod.pw.toml"
+hash = "a2ae5908d2be10244bccabad49f7ab66ce8296d1ea93a49065e0193d6f32a344"
 metafile = true
 
 [[files]]
