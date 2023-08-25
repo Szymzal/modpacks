@@ -230,7 +230,7 @@ hash = "4ac606e9067140a447935115e0c47656daf880e5d499c1c914f57f073f8da0f1"
 
 [[files]]
 file = "config/TerraFirmaCraft - Client.cfg"
-hash = "6db4e26c845b4b3d3cda6c074dfe16d4b4799c9fa2bbac530af50ea6725497a7"
+hash = "2496b96998192cd7a29097afa7029e21ccce9cd0044d5a011d3c52196029c302"
 
 [[files]]
 file = "config/TerraFirmaCraft - Devices.cfg"
@@ -8490,6 +8490,11 @@ metafile = true
 [[files]]
 file = "mods/sound-filters.pw.toml"
 hash = "f111153fa99abf794602fb50a853d1f8f05c1acbbca099d813389564cd4ead3d"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "3d06c23fc5c293cc191574ddb01727c6a852cd100b4a69267b1f98c6a877be62"
 metafile = true
 
 [[files]]
