@@ -340,11 +340,6 @@ hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
 metafile = true
 
 [[files]]
-file = "mods/mods-refinedstorage2-pw-toml.pw.toml"
-hash = "e5a2a8493832acec5e8355c3e96ac290cc7d552a1cc75ab3ff79742866aa874e"
-metafile = true
-
-[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "be1f88824f7ceb008ce38ae763a93921db0c27db68577fdb16c29c6a085ec1f3"
 metafile = true
@@ -377,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "2cadde7b91d76a9376b6335b1215b734e8d75473c594a7b75ebb220ff7e2c017"
+metafile = true
+
+[[files]]
+file = "mods/refinedstorage2.pw.toml"
+hash = "46155e02aca79f71cdc8aef8411dc49379c81f3b79579e368e595aedbf460d33"
 metafile = true
 
 [[files]]
