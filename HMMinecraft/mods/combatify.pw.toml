@@ -1,0 +1,13 @@
+name = "Combatify"
+filename = "Combatify 1.20 1.1.8 Release Candidate 1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kRYhslBa/versions/HaJ3H4Km/Combatify%201.20%201.1.8%20Release%20Candidate%201.jar"
+hash-format = "sha1"
+hash = "522e453157fc93a5134f2ce10cdea1843e34a8af"
+
+[update]
+[update.modrinth]
+mod-id = "kRYhslBa"
+version = "HaJ3H4Km"
