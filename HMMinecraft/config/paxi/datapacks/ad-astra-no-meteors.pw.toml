@@ -1,0 +1,13 @@
+name = "Ad Astra NO Meteors"
+filename = "AdAstraMeteorRemoval.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "187d7541f48d61fe340227589680a2eb2b81e0e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4710668
+project-id = 904086
