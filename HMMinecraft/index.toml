@@ -555,6 +555,11 @@ hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
+metafile = true
+
+[[files]]
 file = "mods/spice-of-fabric.pw.toml"
 hash = "f9634199a057b5d9baf729ad427dac363637d049f98a7392aa9b44abf795c589"
 metafile = true
