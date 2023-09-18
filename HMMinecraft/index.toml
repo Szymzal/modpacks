@@ -530,6 +530,11 @@ hash = "c89835f045a03832c287470cd1729a70f1265e3eac7b3cdaf603c3c1fd677689"
 metafile = true
 
 [[files]]
+file = "mods/reworked-sleep-to-night.pw.toml"
+hash = "be1c4f65ea8d10214f48245d5ea9d4a0d106b820c409efb8b8063056086e30ab"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "edba7765364ba526fcc7da563e9858d997dd9915401e08040c32de7f79d1bb91"
 metafile = true

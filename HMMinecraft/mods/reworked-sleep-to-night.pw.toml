@@ -1,0 +1,13 @@
+name = "Reworked: Sleep To Night"
+filename = "reworked_sleep_to_night-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/28b0McBj/versions/WnkzJQXE/reworked_sleep_to_night-1.0.2.jar"
+hash-format = "sha1"
+hash = "d7ac638a42f8f760b1691fe64238541477c29dba"
+
+[update]
+[update.modrinth]
+mod-id = "28b0McBj"
+version = "WnkzJQXE"
