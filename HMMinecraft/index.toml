@@ -110,6 +110,11 @@ hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
 
 [[files]]
+file = "mods/allthetrims.pw.toml"
+hash = "02304ad3bfb6b9b549b53e67d84f290f5695f3eb816f37b33a9e40e0e03aee90"
+metafile = true
+
+[[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "730280bd809ddbe339b1ec0d85394fdcb8a1558187de2e33b7045f63b1fc1d69"
 metafile = true
@@ -250,6 +255,11 @@ hash = "a700b9ee3a43f831e4d71c1c6cd816813975b61ebdb962297e95d71026d1e056"
 metafile = true
 
 [[files]]
+file = "mods/damagevignette.pw.toml"
+hash = "f8dc47162043e0bcfdf633c7b48fda0b297a06e2bef9f9318ba2defc0d762a51"
+metafile = true
+
+[[files]]
 file = "mods/dehydration.pw.toml"
 hash = "a10a4014d12d7b1532fb5a7cfccecae5025406ae125bb941e3b3a79b3be2491b"
 metafile = true
@@ -292,11 +302,6 @@ metafile = true
 [[files]]
 file = "mods/emuno.pw.toml"
 hash = "3fe8ab29c47d04dd0a80b3886534bfa56bfcab9a490dbfdc96c4516db8c477b3"
-metafile = true
-
-[[files]]
-file = "mods/enchanted-vertical-slabs.pw.toml"
-hash = "a536a27dd97f57e79a9734fecd99c0425212fdb7c81bfe6c9b3acd183c34b676"
 metafile = true
 
 [[files]]
@@ -545,6 +550,11 @@ hash = "25c6c26c56658a11b6cdd930ba2403817c52718824033077615890a1d00ece32"
 metafile = true
 
 [[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "89fc4d8fa43ced76ba5452eef196d5986d831ba828921cc133e4fc6139a123f0"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "1cb218af33e0eff1014b3e49ea1e0da40f14de23b18f95ed928a5495f3d2c334"
 metafile = true
@@ -562,6 +572,11 @@ metafile = true
 [[files]]
 file = "mods/spice-of-fabric.pw.toml"
 hash = "f9634199a057b5d9baf729ad427dac363637d049f98a7392aa9b44abf795c589"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "daeec6e32a564883d796749c66e372463b2ecadf45d95e7b05f4e984cda80d91"
 metafile = true
 
 [[files]]
