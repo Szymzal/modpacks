@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/amplified-nether.pw.toml"
-hash = "730280bd809ddbe339b1ec0d85394fdcb8a1558187de2e33b7045f63b1fc1d69"
+hash = "dc464531657482fdf16b54aef3bd251d6cac5583ffbc18216757de4c55edb55d"
 metafile = true
 
 [[files]]
@@ -167,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "ba31b113733abc813e36738bdc8104fad628232d29907f66f48cf8c45299de9f"
+metafile = true
+
+[[files]]
+file = "mods/bettertrims.pw.toml"
+hash = "aa453b2f250bd2949671d68990b79205ecfe206036221aa4bbe7082ba8cd207b"
 metafile = true
 
 [[files]]
@@ -515,6 +520,11 @@ hash = "a6e087aa1beacb72cbfd77e442c78329b8a3c8af71cd3833078ff4cc7186d64f"
 metafile = true
 
 [[files]]
+file = "mods/qu-enchantments.pw.toml"
+hash = "aa6092e273a36455bd585b1c08c4b978dd4d93e203e3e0c77e947462ebf36fc5"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "2cadde7b91d76a9376b6335b1215b734e8d75473c594a7b75ebb220ff7e2c017"
 metafile = true
@@ -527,11 +537,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c89835f045a03832c287470cd1729a70f1265e3eac7b3cdaf603c3c1fd677689"
-metafile = true
-
-[[files]]
-file = "mods/reworked-sleep-to-night.pw.toml"
-hash = "be1c4f65ea8d10214f48245d5ea9d4a0d106b820c409efb8b8063056086e30ab"
 metafile = true
 
 [[files]]
@@ -612,6 +617,11 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "4b257570a7bea7d99939f32b8ecc1830230915a4d357f22c39b33f35f343cfd0"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "5d52480f57b1b91195c6cde08c052e25df3e17addd5d5aadfeb7e8c8a594ffb9"
 metafile = true
 
 [[files]]
