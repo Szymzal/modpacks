@@ -150,6 +150,11 @@ hash = "e7e792cc5aec854250db3cb9ee6fe16b6edcd88f3f949d1e47c976fcfd1b9c4e"
 metafile = true
 
 [[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "86550f2ea052d6a90a665747f1983674d1c0207d243e4eac4702573589c4a0a3"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
 metafile = true
@@ -407,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "e394b1a364551e504f32e65bf1ad6bd5a17b0250d4715c7bf4955840fe2d398b"
+metafile = true
+
+[[files]]
+file = "mods/hmminecraftmod.pw.toml"
+hash = "9bafe4e9989c837ca3439420e939293c2cf8f2eb232dcd9fc5a25c2a883b8c2a"
 metafile = true
 
 [[files]]
