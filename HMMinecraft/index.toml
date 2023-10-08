@@ -499,6 +499,11 @@ hash = "c5ad85496c9e7da282efc5511651b80deac5a38bb659e9b4a0ffe4c57e90d185"
 metafile = true
 
 [[files]]
+file = "mods/easyauth.pw.toml"
+hash = "a4a87e7580a1651f429af181e1be40a5b3c4b1969f80288c5199dcde91592ee7"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
 metafile = true
@@ -559,11 +564,6 @@ hash = "3b09bb825c6293c1c1fb2addd2c88e03af6cb4f0cc72040cd8696a51a3ef8f5f"
 metafile = true
 
 [[files]]
-file = "mods/fastback.pw.toml"
-hash = "27058ff24b894fe8d1157017c13db4bb5f4953d9a89a76b7ba0ad9d1723f4d19"
-metafile = true
-
-[[files]]
 file = "mods/faux-custom-entity-data.pw.toml"
 hash = "a4da8bc46ad51d30597bd2235add659f0ee49123a7140487de7d127659a87e4b"
 metafile = true
@@ -586,11 +586,6 @@ metafile = true
 [[files]]
 file = "mods/hmminecraftmod.pw.toml"
 hash = "9bafe4e9989c837ca3439420e939293c2cf8f2eb232dcd9fc5a25c2a883b8c2a"
-metafile = true
-
-[[files]]
-file = "mods/immersive-aircraft.pw.toml"
-hash = "527a18848a28afde3e9d71c07728de14b9c0597b2857e45a42fac6478de082a6"
 metafile = true
 
 [[files]]
@@ -719,8 +714,13 @@ hash = "2cc40f90565538ed48daa25af8b59240eebc50e9cc2788f4ef73dfa23e87d387"
 metafile = true
 
 [[files]]
+file = "mods/textile_backup.pw.toml"
+hash = "de89d4ffd14c02db24f737055f1f11b784bcb98e7e826efa4bc2329a962b4ba5"
+metafile = true
+
+[[files]]
 file = "mods/tooltipfix.pw.toml"
-hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+hash = "5266f479ada8def6f0913d79b57f1dbf52058df1690e3702a3a3608e6a80c796"
 metafile = true
 
 [[files]]
