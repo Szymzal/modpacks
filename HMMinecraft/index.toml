@@ -515,11 +515,6 @@ hash = "134f741fdc5261ccc4ff12f91c3f2c7937fc76ced8584b445c4fa8d607f57c5c"
 metafile = true
 
 [[files]]
-file = "mods/earlystage.pw.toml"
-hash = "c5ad85496c9e7da282efc5511651b80deac5a38bb659e9b4a0ffe4c57e90d185"
-metafile = true
-
-[[files]]
 file = "mods/easyauth.pw.toml"
 hash = "a4a87e7580a1651f429af181e1be40a5b3c4b1969f80288c5199dcde91592ee7"
 metafile = true
