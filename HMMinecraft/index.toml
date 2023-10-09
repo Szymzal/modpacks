@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/chatpatches.json"
+hash = "a1fb3cfa0622a8a930c97d243d831e4353598fecc4b0398d8bae06060b88e996"
+
+[[files]]
+file = "config/combatify-items.json"
+hash = "6b1ab766e80175eed28e8e1cb4189c48b2b755276e5a11333aa09e41be4b8415"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "d4c748e390e80f1ee313f2906f210111f5ec02c9fd7662b0eec43cad69a71dc7"
 
@@ -489,6 +497,11 @@ hash = "a10a4014d12d7b1532fb5a7cfccecae5025406ae125bb941e3b3a79b3be2491b"
 metafile = true
 
 [[files]]
+file = "mods/disable-elytra.pw.toml"
+hash = "b34d9d19f5a0810aee76034e4bc52462b629e08d22bf024bb544d4329577ff88"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "134f741fdc5261ccc4ff12f91c3f2c7937fc76ced8584b445c4fa8d607f57c5c"
 metafile = true
@@ -659,13 +672,13 @@ hash = "edba7765364ba526fcc7da563e9858d997dd9915401e08040c32de7f79d1bb91"
 metafile = true
 
 [[files]]
-file = "mods/sleep-rework.pw.toml"
-hash = "d4b561d92d4711b3acb4789d8356c6f5cca4e9ea37f7995311083e34626e4b5a"
+file = "mods/simple-voice-chat.pw.toml"
+hash = "613429169795748072fe2669af661f4e8b031725172c4e9d26c6a1b16e296c65"
 metafile = true
 
 [[files]]
-file = "mods/sleep-tight.pw.toml"
-hash = "208ac2e9003fdfbf1b171d33d40b3489734d9102b591c0ff4077706421038738"
+file = "mods/sleep-rework.pw.toml"
+hash = "d4b561d92d4711b3acb4789d8356c6f5cca4e9ea37f7995311083e34626e4b5a"
 metafile = true
 
 [[files]]

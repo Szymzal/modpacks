@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "name": [
+        "minecraft:snowball",
+        "minecraft:egg"
+      ],
+      "stack_size": 64,
+      "cooldown": 4,
+      "cooldown_after": false
+    },
+    {
+      "name": "minecraft:potion",
+      "stack_size": 16
+    },
+	{
+	  "name": [
+		"betterend:aeternium_hammer",
+		"betterend:terminite_hammer",
+		"betterend:thallasium_hammer",
+		"betterend:netherite_hammer",
+		"betterend:diamond_hammer",
+		"betterend:golden_hammer",
+		"betterend:iron_hammer"
+	  ],
+	  "speed": 1.5,
+	  "reach": 1,
+	  "charged_reach": 1.5
+	}
+  ],
+  "weapon_types": [
+  
+  ],
+  "blocking_types": [
+
+  ]
+}
