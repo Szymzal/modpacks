@@ -5,6 +5,10 @@ file = "config/chatpatches.json"
 hash = "a1fb3cfa0622a8a930c97d243d831e4353598fecc4b0398d8bae06060b88e996"
 
 [[files]]
+file = "config/chunksfadein.properties"
+hash = "dde1799262ab48ad4e211a0d313b684564fbc6d7aa0c3885a1fe1ed5b89a7822"
+
+[[files]]
 file = "config/combatify-items.json"
 hash = "6b1ab766e80175eed28e8e1cb4189c48b2b755276e5a11333aa09e41be4b8415"
 
@@ -135,6 +139,10 @@ hash = "c602ad2f5d370579a6f530355b2c60852fbbbfa6c230ebb568cbf79ec290e76b"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "93c4b423cf982419932b7085a1233ae956061f262fb732fd7f132a6c56817c9a"
+
+[[files]]
+file = "config/zoomify.json"
+hash = "dae44af0bb94b63d4876b9db12feeaaebd07c8ea877218c9e3f0b598e4af8b1b"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
