@@ -597,6 +597,11 @@ hash = "e394b1a364551e504f32e65bf1ad6bd5a17b0250d4715c7bf4955840fe2d398b"
 metafile = true
 
 [[files]]
+file = "mods/gravestones.pw.toml"
+hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
+metafile = true
+
+[[files]]
 file = "mods/hmminecraftmod.pw.toml"
 hash = "9bafe4e9989c837ca3439420e939293c2cf8f2eb232dcd9fc5a25c2a883b8c2a"
 metafile = true
@@ -619,6 +624,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "d9cb74c86bf1715c28c21cf4c65412a614d3426e5e8d80152c0ec97cf85cb1a0"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "f5eb9d19a205a42dbb9d8ad4ee95e2cf0364814dd8416a9147b21f261dd93c97"
 metafile = true
 
 [[files]]
@@ -717,6 +727,11 @@ hash = "e74d5a49843af3b6c1db7185aa3a01d9701528cbc3f8a17ddfd4879f00fb70de"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "dff84f1eca93e18fb1548bacf408b73bed27efe04e842af5b659efce4496dd10"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "d4999aa4a0af3e06221075e4cbf62a8ffdc50537353d494ac40dd73f12bc173c"
 metafile = true
@@ -739,11 +754,6 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "4b257570a7bea7d99939f32b8ecc1830230915a4d357f22c39b33f35f343cfd0"
-metafile = true
-
-[[files]]
-file = "mods/universal-graves.pw.toml"
-hash = "5d52480f57b1b91195c6cde08c052e25df3e17addd5d5aadfeb7e8c8a594ffb9"
 metafile = true
 
 [[files]]
