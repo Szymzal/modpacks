@@ -1,5 +1,5 @@
 name = "BCLib"
-filename = "bclib-3.0.13.jar"
+filename = "../bclib-3.0.13.jar"
 side = "both"
 
 [download]

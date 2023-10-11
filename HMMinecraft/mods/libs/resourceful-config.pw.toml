@@ -1,5 +1,5 @@
 name = "Resourceful Config"
-filename = "resourcefulconfig-fabric-1.20.1-2.1.0.jar"
+filename = "../resourcefulconfig-fabric-1.20.1-2.1.0.jar"
 side = "both"
 
 [download]

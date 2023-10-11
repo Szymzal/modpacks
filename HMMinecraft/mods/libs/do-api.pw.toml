@@ -1,5 +1,5 @@
 name = "Let's Do: API"
-filename = "doapi-1.2.7-fabric.jar"
+filename = "../doapi-1.2.7-fabric.jar"
 side = "both"
 
 [download]

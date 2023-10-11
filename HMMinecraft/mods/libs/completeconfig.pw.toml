@@ -1,5 +1,5 @@
 name = "CompleteConfig"
-filename = "completeconfig-2.5.0.jar"
+filename = "../completeconfig-2.5.0.jar"
 side = "both"
 
 [download]
