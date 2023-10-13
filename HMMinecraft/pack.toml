@@ -1,12 +1,12 @@
 name = "HM Minecraft"
 author = "Szymzal"
-version = "1.0.1"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3a9c24249b235bce60eeb6d0cd84a3ed6d16aa963540c379a76aecfc2c343798"
+hash = "b44bd8ee1bbcee2d081b59d62192490be8c8e97d90325436b9c3fb2cc7497e16"
 
 [versions]
 fabric = "0.14.22"
