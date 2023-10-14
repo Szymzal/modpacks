@@ -57,6 +57,10 @@ file = "config/puzzle.json"
 hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
 
 [[files]]
+file = "config/spiceoffabric.hjson"
+hash = "77016b0c7a573fda1a0998a0dabfbb2df595f17e18e8d64280585249de12f348"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "d16ef4b4dd9d1cfee220332e0246840ca3893a7c0cde99a299f717b63bd8dc2a"
 
