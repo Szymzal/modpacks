@@ -1,0 +1,13 @@
+name = "Better Bookshelves"
+filename = "betterbookshelves-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eMBIyoJt/versions/WtHscotm/betterbookshelves-1.0.0.jar"
+hash-format = "sha1"
+hash = "09fb808601ddaf9a9ed58acc578dcd38e5bfa814"
+
+[update]
+[update.modrinth]
+mod-id = "eMBIyoJt"
+version = "WtHscotm"

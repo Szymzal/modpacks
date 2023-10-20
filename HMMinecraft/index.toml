@@ -13,8 +13,8 @@ file = "config/combatify-items.json"
 hash = "6b1ab766e80175eed28e8e1cb4189c48b2b755276e5a11333aa09e41be4b8415"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "d4c748e390e80f1ee313f2906f210111f5ec02c9fd7662b0eec43cad69a71dc7"
+file = "config/gravestones.json"
+hash = "a23a4eb7337b5bfa0f24396518b3224a4887d2e7f46b50e0f76ec79d90e3657c"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -168,6 +168,10 @@ hash = "dae44af0bb94b63d4876b9db12feeaaebd07c8ea877218c9e3f0b598e4af8b1b"
 file = "mods/3dskinlayers.pw.toml"
 hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
+
+[[files]]
+file = "mods/HMMinecraftMod-1.1.0.jar"
+hash = "676e6eb78beff9dae848c1f4091bcfe17a3ac6ac32cfb4320f124db0184d9404"
 
 [[files]]
 file = "mods/additive/animatica.pw.toml"
@@ -380,6 +384,11 @@ hash = "dc464531657482fdf16b54aef3bd251d6cac5583ffbc18216757de4c55edb55d"
 metafile = true
 
 [[files]]
+file = "mods/antighost.pw.toml"
+hash = "9f22660d287a6a3ded24f5df8f944972933f04651cb30c9acb2e62132f3ffcd2"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
@@ -402,6 +411,11 @@ metafile = true
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
+metafile = true
+
+[[files]]
+file = "mods/betterbookshelves.pw.toml"
+hash = "29f969a50ef0af90e438664b8460997fcb7976e3a602162aeedf63c49c75676a"
 metafile = true
 
 [[files]]
@@ -460,8 +474,8 @@ hash = "24ceeef91ed4244c63cf0dd4d34fea6b64f13de330ab86ca4929808ee4d2c01f"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric.pw.toml"
-hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
+file = "mods/create-fabric-sodium-fix.pw.toml"
+hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
 metafile = true
 
 [[files]]
@@ -557,11 +571,6 @@ metafile = true
 [[files]]
 file = "mods/gravestones.pw.toml"
 hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
-metafile = true
-
-[[files]]
-file = "mods/hmminecraftmod.pw.toml"
-hash = "9bafe4e9989c837ca3439420e939293c2cf8f2eb232dcd9fc5a25c2a883b8c2a"
 metafile = true
 
 [[files]]
@@ -687,6 +696,11 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "9e09f07e73ff32e66e284584c72aeda18b81c4c3706e1be38352dbf072126102"
+metafile = true
+
+[[files]]
+file = "mods/nvidium.pw.toml"
+hash = "70f444a46d78fed95f94efe6861450f9c24e29376af51d4b53879b8cd2163af0"
 metafile = true
 
 [[files]]
