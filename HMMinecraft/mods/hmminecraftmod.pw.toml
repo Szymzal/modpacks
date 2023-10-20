@@ -1,0 +1,7 @@
+name = "HMMinecraft Mod"
+filename = "HMMinecraftMod-1.1.0.jar"
+
+[download]
+url = "https://github.com/Szymzal/HMMinecraft/releases/download/v1.1.0/HMMinecraftMod-1.1.0.jar"
+hash-format = "sha256"
+hash = "131240e07dccf0ca527983a36ea297ac5b1d56e9d8c89b5bf300d77cc424ce66"

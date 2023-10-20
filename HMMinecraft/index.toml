@@ -1,16 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/chatpatches.json"
-hash = "a1fb3cfa0622a8a930c97d243d831e4353598fecc4b0398d8bae06060b88e996"
-
-[[files]]
-file = "config/chunksfadein.properties"
-hash = "dde1799262ab48ad4e211a0d313b684564fbc6d7aa0c3885a1fe1ed5b89a7822"
-
-[[files]]
 file = "config/combatify-items.json"
 hash = "6b1ab766e80175eed28e8e1cb4189c48b2b755276e5a11333aa09e41be4b8415"
+
+[[files]]
+file = "config/enhanced_bes.properties"
+hash = "7f95e618ccca04413802c607232fb3838e724891fb71eb06c542150c4f15a3c2"
 
 [[files]]
 file = "config/gravestones.json"
@@ -19,10 +15,6 @@ hash = "a23a4eb7337b5bfa0f24396518b3224a4887d2e7f46b50e0f76ec79d90e3657c"
 [[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "17df3203c357ae2bbbeeb2eee65cf23311c4ec7a035055ec2ae988db51243a62"
-
-[[files]]
-file = "config/mousewheelie.hjson"
-hash = "49a5fa367bfeefb9cdb266b5ffdec215962e91b838238fe6a22906e156641472"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
@@ -93,6 +85,14 @@ file = "config/yosbr/config/cem.conf"
 hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 
 [[files]]
+file = "config/yosbr/config/chatpatches.json"
+hash = "a1fb3cfa0622a8a930c97d243d831e4353598fecc4b0398d8bae06060b88e996"
+
+[[files]]
+file = "config/yosbr/config/chunksfadein.properties"
+hash = "dde1799262ab48ad4e211a0d313b684564fbc6d7aa0c3885a1fe1ed5b89a7822"
+
+[[files]]
 file = "config/yosbr/config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
@@ -137,6 +137,10 @@ file = "config/yosbr/config/moreculling.toml"
 hash = "459043680fe671f08da4d1a88ff7204fa94880c2a7babba98d68acebc60d49c1"
 
 [[files]]
+file = "config/yosbr/config/mousewheelie.hjson"
+hash = "49a5fa367bfeefb9cdb266b5ffdec215962e91b838238fe6a22906e156641472"
+
+[[files]]
 file = "config/yosbr/config/servercore.toml"
 hash = "4f5cd08148f87464a0f5e471787fd609a6546b653845954598e5a240b938a32d"
 
@@ -157,21 +161,17 @@ file = "config/yosbr/config/world-host.json5"
 hash = "c602ad2f5d370579a6f530355b2c60852fbbbfa6c230ebb568cbf79ec290e76b"
 
 [[files]]
-file = "config/yosbr/options.txt"
-hash = "93c4b423cf982419932b7085a1233ae956061f262fb732fd7f132a6c56817c9a"
+file = "config/yosbr/config/zoomify.json"
+hash = "dae44af0bb94b63d4876b9db12feeaaebd07c8ea877218c9e3f0b598e4af8b1b"
 
 [[files]]
-file = "config/zoomify.json"
-hash = "dae44af0bb94b63d4876b9db12feeaaebd07c8ea877218c9e3f0b598e4af8b1b"
+file = "config/yosbr/options.txt"
+hash = "93c4b423cf982419932b7085a1233ae956061f262fb732fd7f132a6c56817c9a"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
-
-[[files]]
-file = "mods/HMMinecraftMod-1.1.0.jar"
-hash = "676e6eb78beff9dae848c1f4091bcfe17a3ac6ac32cfb4320f124db0184d9404"
 
 [[files]]
 file = "mods/additive/animatica.pw.toml"
@@ -509,6 +509,11 @@ hash = "a4a87e7580a1651f429af181e1be40a5b3c4b1969f80288c5199dcde91592ee7"
 metafile = true
 
 [[files]]
+file = "mods/easywhitelist.pw.toml"
+hash = "1a0243a12504f26462f34372d8adf7578739716bc2b004fcbba2f44a07cd85a7"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
 metafile = true
@@ -571,6 +576,11 @@ metafile = true
 [[files]]
 file = "mods/gravestones.pw.toml"
 hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
+metafile = true
+
+[[files]]
+file = "mods/hmminecraftmod.pw.toml"
+hash = "8845626523c709ec2002077e0a1fe0586473528a6b3975086312a6865a55d32a"
 metafile = true
 
 [[files]]
