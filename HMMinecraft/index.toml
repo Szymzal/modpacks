@@ -399,6 +399,11 @@ hash = "a8f06b1711c4a7ad809d5d03c78df38bf68c68ffa9876f43cc9ba41db0de4ba2"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "ce1fe1e69721bf56e277be993505956c88c3036e8d826a85eb83d9a3cf8305aa"
+metafile = true
+
+[[files]]
 file = "mods/beautify-refabricated.pw.toml"
 hash = "e7e792cc5aec854250db3cb9ee6fe16b6edcd88f3f949d1e47c976fcfd1b9c4e"
 metafile = true
@@ -454,6 +459,16 @@ hash = "5d05ff6a4ce3ad876d26a23bbc609bf0089a3bbefd5f433fbbccd6ac00aed8e9"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "fd15a165cf8782b21ea9ce958468dbb4bee1fc092fd3d83f901631e075eced75"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "c0a9f74591d0a2ea22da7775d167c00c877959a69d6ef51d6f78ce52d4c896ae"
+metafile = true
+
+[[files]]
 file = "mods/chunks-fade-in.pw.toml"
 hash = "ed917f425399ad4d2b38249319b4ecaac72f23eff3b3c723ad706a13cb4da2f7"
 metafile = true
@@ -469,6 +484,11 @@ hash = "0c8d8685af23de62cc846546da34fe13d854a7e85bdc61f8286fa3c265dfe561"
 metafile = true
 
 [[files]]
+file = "mods/connected-glass.pw.toml"
+hash = "6bae53344316346f9ddd3fe57e0e3d227b449ed58be9bd3a8cc2556ad1fc1df5"
+metafile = true
+
+[[files]]
 file = "mods/connectible_chains.pw.toml"
 hash = "24ceeef91ed4244c63cf0dd4d34fea6b64f13de330ab86ca4929808ee4d2c01f"
 metafile = true
@@ -476,6 +496,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric-sodium-fix.pw.toml"
 hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
+metafile = true
+
+[[files]]
+file = "mods/create-goggles.pw.toml"
+hash = "94982cbfab37b39c59d750c7f66e9c88979398b0387490fb5db4f4ca2b9eadaf"
 metafile = true
 
 [[files]]
@@ -496,6 +521,11 @@ metafile = true
 [[files]]
 file = "mods/dehydration.pw.toml"
 hash = "a10a4014d12d7b1532fb5a7cfccecae5025406ae125bb941e3b3a79b3be2491b"
+metafile = true
+
+[[files]]
+file = "mods/delightful-creators-fabric.pw.toml"
+hash = "2669ee304ddaa3bc3879c25147b12fa382b6baa1cc75153639d33d8f954b9f83"
 metafile = true
 
 [[files]]
@@ -529,8 +559,28 @@ hash = "e329a52a7234b2504062c3e22bc954acc6e470134b07069dfe4ec383078129e0"
 metafile = true
 
 [[files]]
+file = "mods/enchantedshulkers.pw.toml"
+hash = "c7497ced0dc96cbbf4cce1344a02bf8b57bff4a9bc4280c25572bf96846f1774"
+metafile = true
+
+[[files]]
 file = "mods/environmentz.pw.toml"
 hash = "c11aa68c26493704c24e5991b4fb04a6d3fc124b468d9b5e43f9d02e0f5f8be9"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "9effd1002b11eb4dc90ebd55daa47366f13cd48b2fabde60d627865784d5a46e"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "a5d43496c882895a91ea20b73b660145262abf2ca97f8a9b3b2aab121212c295"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
 metafile = true
 
 [[files]]
@@ -574,8 +624,18 @@ hash = "0c4a09584b6658dc30a331be656aae8a03200c4b7b9e6ec88434cf9ca0b9ccee"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "72cb09c1b9cd9d3e8b837b8c226b40247ea6785a5049bb3a12162501103b8259"
+metafile = true
+
+[[files]]
 file = "mods/gravestones.pw.toml"
 hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "2e3547b6513fabf4cc51efc2488115ea8297ec0e4845d57abad8d9e1a798b924"
 metafile = true
 
 [[files]]
@@ -586,6 +646,26 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "4278c84cdeeccd8c87fb43d4123b0aa81ba9b1f3303b2672a67dc3883126e71a"
+metafile = true
+
+[[files]]
+file = "mods/infinitybuttons.pw.toml"
+hash = "3d9b2eaf60c3abc7e39022e3a6faacc582cd87fc5d4fd5218292e672991b6ffa"
+metafile = true
+
+[[files]]
+file = "mods/interactic.pw.toml"
+hash = "a7ef559159e38d3ebac9d2fef6c33a5c906e1848ae100b008f7ecda3e3c5be53"
+metafile = true
+
+[[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "a87a5e7a9a1234525c9b2d5259e061317c35e0c863c2b061a2e6d2826c05f152"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
+hash = "2fca316094aaba7621f614ebe9f26e50992797b8c63c6528e8b3fad35e885d7b"
 metafile = true
 
 [[files]]
@@ -674,6 +754,11 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "a92769d4cfb0d2f5f46f0b40474584aa7c3e2f9b6a8286b3c77a37558b51e979"
+metafile = true
+
+[[files]]
 file = "mods/mod-loading-screen.pw.toml"
 hash = "9b5705ab02715764eab08ba9682e04ac6fd5f376148f1c9a799956328d662f3c"
 metafile = true
@@ -681,6 +766,16 @@ metafile = true
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "f5eb9d19a205a42dbb9d8ad4ee95e2cf0364814dd8416a9147b21f261dd93c97"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "051b1bee4a7fd8f2a55753fe95eda061e0f2a724c5b8ad38d2ca3619c88f2fae"
+metafile = true
+
+[[files]]
+file = "mods/music-maker-mod.pw.toml"
+hash = "3b525404ba90b0d5fbe2a76a06cc7484863c0307d3359ad1a38647ed734a4735"
 metafile = true
 
 [[files]]
@@ -719,6 +814,16 @@ hash = "c34e7a8a336becea00e855eb69fcd94d02691ea01c54f37b088a4f1fa6fef26f"
 metafile = true
 
 [[files]]
+file = "mods/quickshulker.pw.toml"
+hash = "b6c3dbf9a6e4ced00cd9d7ea5c1383b2defcf915327f2bdf9d6752a20aaa6185"
+metafile = true
+
+[[files]]
+file = "mods/raknetify.pw.toml"
+hash = "f1cc192a3fd0ae7432f271912bbb62d8f8f319ec3bb80a2f229907f11d4755cb"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "edba7765364ba526fcc7da563e9858d997dd9915401e08040c32de7f79d1bb91"
 metafile = true
@@ -744,6 +849,16 @@ hash = "89fc4d8fa43ced76ba5452eef196d5986d831ba828921cc133e4fc6139a123f0"
 metafile = true
 
 [[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "f0ee16ccf75a07f870bb40bb7c53594b24441ffb92c10ce8db1068f6d13c600c"
+metafile = true
+
+[[files]]
+file = "mods/snow-under-trees-remastered.pw.toml"
+hash = "f15ec0e6a22a2af1087102489a607c6e4fba1edb3e58d52eb3ede77ad0a8d826"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
@@ -766,6 +881,16 @@ metafile = true
 [[files]]
 file = "mods/structory.pw.toml"
 hash = "ca3ef53ef31a648063269f3cad4908c991ee06088f949b3cffa29a49c35da942"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "8d2d9bf76b6a9dddada92d642ac89d57a46d7ff629b6275958ff1d14d3d1a884"
 metafile = true
 
 [[files]]
