@@ -1,5 +1,5 @@
 name = "Sodium"
-filename = "sodium-fabric-mc1.20.1-0.5.3.jar"
+filename = "../sodium-fabric-mc1.20.1-0.5.3.jar"
 side = "client"
 
 [download]

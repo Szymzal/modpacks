@@ -1,5 +1,5 @@
 name = "Enhanced Block Entities"
-filename = "enhancedblockentities-0.9+1.20.jar"
+filename = "../enhancedblockentities-0.9+1.20.jar"
 side = "client"
 
 [download]

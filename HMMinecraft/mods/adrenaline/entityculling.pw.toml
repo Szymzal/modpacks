@@ -1,5 +1,5 @@
 name = "EntityCulling"
-filename = "entityculling-fabric-1.6.2-mc1.20.1.jar"
+filename = "../entityculling-fabric-1.6.2-mc1.20.1.jar"
 side = "client"
 
 [download]
